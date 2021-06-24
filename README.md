@@ -1,7 +1,7 @@
 ## Welcome 👋
 
-[Website](https://www.matnac.com) •
-[LinkedIn](https://www.linkedin.com/in/matias-sallent)
+[Website](https://matnac.dev/) •
+[LinkedIn](https://www.linkedin.com/in/matias-sallent/)
 
 I'm a __Senior Frontend developer__ based in __Buenos Aires, Argentina__.
 
