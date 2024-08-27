@@ -3,7 +3,7 @@
 [Website](https://matnac.dev/) •
 [LinkedIn](https://www.linkedin.com/in/matias-sallent/)
 
-I'm a __Senior Software Engineer__ based in __Buenos Aires, Argentina__.
+I'm a __Technical Lead__ based in __Buenos Aires, Argentina__.
 
 * ⚡️ 7+ years of experience.
 * ⚡️ Currently working remotely at [ReflexAI](https://www.reflexai.com/).
